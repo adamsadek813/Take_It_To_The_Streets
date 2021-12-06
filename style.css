@@ -532,3 +532,7 @@ border:none;
 body > main > section.main_body > h3:nth-child(4){
 border:none;
 }
+
+body > header > div.Navigation > div:nth-child(2) > ul > li{
+width: 100px;
+}
